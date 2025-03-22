@@ -48,3 +48,16 @@ body{
     width: 100px;
 
 }
+
+.text-right{
+    text-align: right;
+}
+
+.text-left{
+    text-align: left;
+}
+
+.text-justified{
+    direction: rtl;
+    text-align: justify;
+}
