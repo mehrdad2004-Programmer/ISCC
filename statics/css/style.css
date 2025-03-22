@@ -1,0 +1,50 @@
+*{
+    direction: rtl !important;
+}
+.bg-header{
+    height: 400px;
+
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+.news-bg{
+    height: 250px;
+}
+
+.thumbnail{
+    width: 150px !important
+}
+.course{
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid black;
+}
+.course-box{
+    border-top: 2px solid black;
+    /* border-bottom: 2px black solid; */
+    padding: 20px;
+}
+.image{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.date{
+    text-align: left;
+}
+.profile{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.picture{
+    width: 100px;
+
+}
